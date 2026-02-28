@@ -10,7 +10,6 @@ I'm passionate about building meaningful digital solutions — whether it's opti
 - 🔍 Always learning, always improving  
 - 🧠 Deeply interested in cybersecurity, tech strategy & backend systems  
 - ✍️ I believe in clean code, clarity, and community  
-- 💡 Currently working on: **Fintech project for Faida Investment Firm**
 
 ---
 
