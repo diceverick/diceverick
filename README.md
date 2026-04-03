@@ -9,7 +9,7 @@ I’m a developer focused on building secure, scalable digital ecosystems. I don
 ## 🚀 Current Hustle
 - 🔌 **Project PLUGG:** Building a peer-to-peer campus marketplace with ASP.NET & SQL Server.
 - 🛡️ **Cybersecurity:** Training on TryHackMe and exploring secure coding practices.
-- 📸 **Creative Side:** Pursuing wildlife and astrophotography when the code is compiling.
+- 📸 **Creative Side:** Pursuing cinematic-conceptual photography and astrophotography while the code is compiling.
 
 ---
 
@@ -25,8 +25,10 @@ I’m a developer focused on building secure, scalable digital ecosystems. I don
 ---
 
 ## 📊 My GitHub Stats
-![Don's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+
+![Don's GitHub stats](https://github-readme-stats.vercel.app/api?username=diceverick&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diceverick&layout=compact&theme=dark)
 
 ---
 
