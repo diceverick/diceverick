@@ -23,16 +23,9 @@ I’m a developer focused on building secure, scalable digital ecosystems. I don
 | **Tools** | Git/GitHub, VS Code |
 
 ---
-## 📊 My GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diceverick&theme=dark&hide_border=true" alt="streak stats" height="165" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diceverick&theme=react-dark&area=true&hide_border=true" alt="activity graph" height="165" />
-</p>
----
 
 ## 📫 Let’s Connect
-[Keep your badges here, they are fire]
 
 <div align="left">
   <a href="mailto:donkmaina@gmail.com">
