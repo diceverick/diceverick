@@ -1,19 +1,37 @@
-# 👋 Hey there, I'm Don Karanja
+# 👋 Hey, I'm Don Karanja
 
-Welcome to my world of code, creativity, and curiosity.  
-I'm passionate about building meaningful digital solutions — whether it's optimizing systems, exploring cybersecurity, or creating clean, scalable apps.
+**CS Student |Front end & Backend Developer | Cybersecurity Enthusiast**
+
+I’m a developer focused on building secure, scalable digital ecosystems. I don't just write code; I design solutions that solve real-world campus problems.
 
 ---
 
-## 🚀 About Me
+## 🚀 Current Hustle
+- 🔌 **Project PLUGG:** Building a peer-to-peer campus marketplace with ASP.NET & SQL Server.
+- 🛡️ **Cybersecurity:** Training on TryHackMe and exploring secure coding practices.
+- 📸 **Creative Side:** Pursuing wildlife and astrophotography when the code is compiling.
 
-- 🔍 Always learning, always improving  
-- 🧠 Deeply interested in cybersecurity, tech strategy & backend systems  
-- ✍️ I believe in clean code, clarity, and community  
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | C#, JavaScript,Java,Python ,C, SQL |
+| **Frameworks** | ASP.NET Core, Web Forms |
+| **Databases** | SQL Server, MySQL |
+| **Tools** | Git/GitHub, VS Code |
+
+---
+
+## 📊 My GitHub Stats
+![Don's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 
 ---
 
 ## 📫 Let’s Connect
+[Keep your badges here, they are fire]
 
 <div align="left">
   <a href="mailto:donkmaina@gmail.com">
@@ -29,11 +47,3 @@ I'm passionate about building meaningful digital solutions — whether it's opti
   </a>
 </div>
 
----
-
-## 🛠️ Tech Stack
-
-```bash
-Languages: C, PHP, JavaScript, HTML/CSS  
-Tools: MySQL, VS Code, Git & GitHub, XAMPP  
-Currently Learning: Secure coding practices and ethical hacking
