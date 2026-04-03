@@ -26,9 +26,8 @@ I’m a developer focused on building secure, scalable digital ecosystems. I don
 ## 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=diceverick&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="Don's stats" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diceverick&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Don's langs" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diceverick&theme=dark&hide_border=true" alt="streak stats" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=diceverick&theme=onedark&column=3&margin-w=15&no-bg=true" alt="trophies" height="150" />
 </p>
 
 ---
