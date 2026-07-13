@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Don Karanja
 
-**CS Student |Front end & Backend Developer | Cybersecurity Enthusiast**
+**Computer Science Student | Software Developer | Cybersecurity Enthusiast**
 
-I’m a developer focused on building secure, scalable digital ecosystems. I don't just write code; I design solutions that solve real-world campus problems.
+Computer Science student interested in software engineering, cybersecurity, and cloud technologies. Building practical projects with ASP.NET, SQL Server, and Python while developing hands-on experience in network security
 
 ---
 
