@@ -8,7 +8,7 @@ Computer Science student interested in software engineering, cybersecurity, and 
 
 ## 🚀 Current Hustle
 - 🔌 **Project PLUGG:** Building a peer-to-peer campus marketplace with ASP.NET & SQL Server.
-- 🛡️ **Cybersecurity:** Training on TryHackMe and exploring secure coding practices.
+- 🛡️ **Cybersecurity:** Training on HackTheBox and exploring secure coding practices.
 - 📸 **Creative Side:** Pursuing cinematic-conceptual photography and astrophotography while the code is compiling.
 
 ---
@@ -17,7 +17,7 @@ Computer Science student interested in software engineering, cybersecurity, and 
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | C#, JavaScript,Java,Python ,C, SQL |
+| **Languages** | C#, JavaScript,Java,Python ,C, SQL,R |
 | **Frameworks** | ASP.NET Core, Web Forms |
 | **Databases** | SQL Server, MySQL |
 | **Tools** | Git/GitHub, VS Code |
